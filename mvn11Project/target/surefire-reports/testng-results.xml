@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="15" started-at="2018-06-25T18:21:23Z" finished-at="2018-06-25T18:21:23Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="15" started-at="2018-06-25T18:21:23Z" finished-at="2018-06-25T18:21:23Z">
+      <class name="com.mvn.DemoTest">
+        <test-method status="PASS" signature="DemoTest1()[pri:0, instance:com.mvn.DemoTest@1888ff2c]" name="DemoTest1" duration-ms="15" started-at="2018-06-25T23:51:23Z" finished-at="2018-06-25T23:51:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DemoTest1 -->
+        <test-method status="PASS" signature="DemoTest2()[pri:0, instance:com.mvn.DemoTest@1888ff2c]" name="DemoTest2" duration-ms="0" started-at="2018-06-25T23:51:23Z" finished-at="2018-06-25T23:51:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DemoTest2 -->
+      </class> <!-- com.mvn.DemoTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
